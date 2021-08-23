@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.bgStyle{
+  opacity: 0.5;
+}
+Button{
+  display: inline-block;
+  font-size: 20px;
+margin-top: 30px;
+  width: 100;
+  height: 100;
+  background-color: khaki;
+}
+h2{
+  color:brown;
+  font-size: 30px;
+}
